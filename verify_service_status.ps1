@@ -1,4 +1,5 @@
-ervice_status.ps1
+###################################################################
+# verify_service_status.ps1
 # Created: 09/14/2012
 # Author: Brian
 # Summary: Verify a service is running, send email if it's down
