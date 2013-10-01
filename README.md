@@ -11,4 +11,6 @@ I did not want to implement something like Nagios to ensure everything is up and
 
 Usage
 -----
-We have this called via Windows Scheduler every 15 minutes. For execution, run the script and pass the service name like so: `verify_service_status.ps1 [Service]`
+For execution, run the script and pass the service name like so: `PS C:\>verify_service_status.ps1 [Service]`
+
+We call the script via Windows Scheduler every 5 minutes.
